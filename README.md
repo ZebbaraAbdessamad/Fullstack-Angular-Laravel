@@ -43,4 +43,4 @@ Congratulations, you have successfully completed the project setup. The followin
 
 $ ng build --base-href http://localhost:8000/app/
 
-![My Image](capture.jpg)
+![My Image](Capture.jpg)
